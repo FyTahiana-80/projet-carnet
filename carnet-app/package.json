@@ -2,6 +2,7 @@
   "name": "carnet-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://fytahiana-80.github.io/projet-carnet",
   "type": "module",
   "scripts": {
     "dev": "vite",
